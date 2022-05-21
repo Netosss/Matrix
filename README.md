@@ -4,7 +4,7 @@ Matrix object is generic class used for 2D arrays manage, supports in :
 +, +=, -, -=, =, ==, !=, *, <<, [][], (i,j) operators.
 
 Initialized in O(1) for any matrix size.
-Supporting in Avg and Min functions which return average element value at the matrix and minimum value.
+Avg and Min functions return average element value at the matrix and minimum value, accordingly.
  
  # Symetric Matrix 
  Subclass of Matrix object. supports in symetric matrix in order to improve efficiency.
